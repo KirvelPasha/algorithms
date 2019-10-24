@@ -8,12 +8,9 @@ def insertion(data):
         data[j+1] = key
     return data
 
-
-
 def main():
     data = [3, 8, 5, 4, 1, 9, -2]
     print(insertion(data))
-
 
 if __name__ == "__main__":
         main()

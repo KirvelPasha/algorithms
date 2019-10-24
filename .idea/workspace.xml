@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c3e3c248-57fe-4498-901e-403cde28aacd" name="Default Changelist" comment="" />
+    <list default="true" id="c3e3c248-57fe-4498-901e-403cde28aacd" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/binary-search/binary_search.py" beforeDir="false" afterPath="$PROJECT_DIR$/binary-search/binary_search.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/insertion-sort/insertion_sort.py" beforeDir="false" afterPath="$PROJECT_DIR$/insertion-sort/insertion_sort.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/merge-sort/merge_sort.py" beforeDir="false" afterPath="$PROJECT_DIR$/merge-sort/merge_sort.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/selection-sort/selection_sort.py" beforeDir="false" afterPath="$PROJECT_DIR$/selection-sort/selection_sort.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -9,21 +15,21 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/quicksort/quicksort.py">
+        <entry file="file://$PROJECT_DIR$/binary-tree/binaryTree.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="72">
-              <caret line="3" column="29" selection-start-line="3" selection-start-column="29" selection-end-line="3" selection-end-column="29" />
+            <state relative-caret-position="168">
+              <caret line="7" column="26" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/selection-sort/selection_sort.py">
+        <entry file="file://$PROJECT_DIR$/euclidean-algorithm/gcd.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="19" />
+            <state relative-caret-position="216">
+              <caret line="9" selection-start-line="9" selection-end-line="17" />
             </state>
           </provider>
         </entry>
@@ -45,28 +51,32 @@
       <list>
         <option value="$PROJECT_DIR$/euclidean-algorithm/nod.py" />
         <option value="$PROJECT_DIR$/main.py" />
-        <option value="$PROJECT_DIR$/insertion-sort/insertion_sort.py" />
         <option value="$PROJECT_DIR$/euclidean-algorithm/gcd.py" />
-        <option value="$PROJECT_DIR$/selection-sort/selection_sort.py" />
         <option value="$PROJECT_DIR$/bubble-sort/bubble_sort.py" />
-        <option value="$PROJECT_DIR$/merge-sort/merge_sort.py" />
-        <option value="$PROJECT_DIR$/binary-search/binary_search.py" />
         <option value="$PROJECT_DIR$/quicksort/quicksort.py" />
+        <option value="$PROJECT_DIR$/det/det.py" />
+        <option value="$PROJECT_DIR$/binary-search/binary_search.py" />
+        <option value="$PROJECT_DIR$/insertion-sort/insertion_sort.py" />
+        <option value="$PROJECT_DIR$/merge-sort/merge_sort.py" />
+        <option value="$PROJECT_DIR$/selection-sort/selection_sort.py" />
+        <option value="$PROJECT_DIR$/dfs/dfs.py" />
+        <option value="$PROJECT_DIR$/bfs/bfs.py" />
+        <option value="$PROJECT_DIR$/binary-tree/binary-tree.py" />
+        <option value="$PROJECT_DIR$/binary-tree/binaryTree.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="265" />
-    <option name="y" value="24" />
-    <option name="width" value="1392" />
-    <option name="height" value="912" />
+    <option name="x" value="1011" />
+    <option name="y" value="204" />
+    <option name="width" value="1390" />
+    <option name="height" value="883" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -77,17 +87,34 @@
             <path>
               <item name="algorithms" type="b2602c69:ProjectViewProjectNode" />
               <item name="algorithms" type="462c0819:PsiDirectoryNode" />
-              <item name="quicksort" type="462c0819:PsiDirectoryNode" />
+              <item name="binary-tree" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="algorithms" type="b2602c69:ProjectViewProjectNode" />
               <item name="algorithms" type="462c0819:PsiDirectoryNode" />
-              <item name="selection-sort" type="462c0819:PsiDirectoryNode" />
+              <item name="bubble-sort" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="det" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="det" type="462c0819:PsiDirectoryNode" />
+              <item name=".ipynb_checkpoints" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="euclidean-algorithm" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -110,7 +137,29 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.binary_search">
+  <component name="RunManager" selected="Python.binaryTree">
+    <configuration name="binaryTree" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="algorithms" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/binary-tree" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/binary-tree/binaryTree.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="binary_search" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="algorithms" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -155,28 +204,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="insertion_sort" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="algorithms" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/insertion-sort" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/insertion-sort/insertion_sort.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="merge_sort" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="algorithms" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -199,7 +226,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="selection_sort" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="quicksort" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="algorithms" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -207,12 +234,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/selection-sort" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/quicksort" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/selection-sort/selection_sort.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/quicksort/quicksort.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -223,11 +250,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.binaryTree" />
+        <item itemvalue="Python.quicksort" />
         <item itemvalue="Python.binary_search" />
         <item itemvalue="Python.merge_sort" />
         <item itemvalue="Python.bubble_sort" />
-        <item itemvalue="Python.selection_sort" />
-        <item itemvalue="Python.insertion_sort" />
       </list>
     </recent_temporary>
   </component>
@@ -247,23 +274,26 @@
       <workItem from="1570005156227" duration="2554000" />
       <workItem from="1570471874701" duration="2651000" />
       <workItem from="1570559562979" duration="3309000" />
-      <workItem from="1570598131798" duration="2517000" />
+      <workItem from="1570598131798" duration="4033000" />
+      <workItem from="1570639893279" duration="565000" />
+      <workItem from="1570694881563" duration="1689000" />
+      <workItem from="1571920482259" duration="2051000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24362000" />
+    <option name="totallyTimeSpent" value="30183000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="-4" width="1855" height="1084" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19568823" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20232172" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.39041793" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.39041793" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39959225" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -272,7 +302,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.3282365" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.31374606" />
       <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="bottom" id="Inspection Results" order="13" weight="0.10783316" />
       <window_info anchor="bottom" id="Concurrent Activities Diagram" order="14" weight="0.32925585" />
@@ -291,32 +321,32 @@
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/merge-sort/merge_sort.py</url>
-          <line>8</line>
+          <line>7</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/merge-sort/merge_sort.py</url>
-          <line>9</line>
+          <line>8</line>
           <option name="timeStamp" value="3" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/merge-sort/merge_sort.py</url>
-          <line>12</line>
+          <line>10</line>
           <option name="timeStamp" value="4" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/merge-sort/merge_sort.py</url>
-          <line>13</line>
+          <line>11</line>
           <option name="timeStamp" value="5" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/merge-sort/merge_sort.py</url>
-          <line>7</line>
+          <line>6</line>
           <option name="timeStamp" value="6" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/merge-sort/merge_sort.py</url>
-          <line>10</line>
+          <line>9</line>
           <option name="timeStamp" value="7" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
@@ -353,12 +383,14 @@
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/algorithms$quicksort.coverage" NAME="quicksort Coverage Results" MODIFIED="1570601004404" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/quicksort" />
     <SUITE FILE_PATH="coverage/algorithms$main.coverage" NAME="main Coverage Results" MODIFIED="1569479424862" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/algorithms$selection_sort.coverage" NAME="selection_sort Coverage Results" MODIFIED="1570027886188" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/selection-sort" />
     <SUITE FILE_PATH="coverage/algorithms$merge_sort.coverage" NAME="merge_sort Coverage Results" MODIFIED="1570599030917" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/merge-sort" />
     <SUITE FILE_PATH="coverage/algorithms$insertion_sort.coverage" NAME="insertion_sort Coverage Results" MODIFIED="1569509079325" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/insertion-sort" />
     <SUITE FILE_PATH="coverage/algorithms$binary_search.coverage" NAME="binary_search Coverage Results" MODIFIED="1570600053257" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/binary-search" />
     <SUITE FILE_PATH="coverage/algorithms$bubble_sort.coverage" NAME="bubble_sort Coverage Results" MODIFIED="1570029020900" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bubble-sort" />
+    <SUITE FILE_PATH="coverage/algorithms$binaryTree.coverage" NAME="binaryTree Coverage Results" MODIFIED="1571923803490" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/binary-tree" />
     <SUITE FILE_PATH="coverage/algorithms$gcd.coverage" NAME="gcd Coverage Results" MODIFIED="1569481495117" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/euclidean-algorithm" />
   </component>
   <component name="editorHistoryManager">
@@ -377,20 +409,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/insertion-sort/insertion_sort.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="13" selection-start-column="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/euclidean-algorithm/gcd.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="5" column="27" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="192">
@@ -398,38 +416,80 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/merge-sort/merge_sort.py">
+    <entry file="file://$PROJECT_DIR$/det/det.py" />
+    <entry file="file://$PROJECT_DIR$/binary-search/binary_search.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="343">
-          <caret line="31" column="14" selection-start-line="31" selection-start-column="14" selection-end-line="31" selection-end-column="14" />
+        <state relative-caret-position="384">
+          <caret line="16" column="4" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="4" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/binary-search/binary_search.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="9" column="26" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/det/.ipynb_checkpoints/Untitled-checkpoint.ipynb">
+      <provider selected="true" editor-type-id="jupyter-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/bubble-sort/bubble_sort.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="8" selection-start-line="8" selection-end-line="15" />
+        <state relative-caret-position="240">
+          <caret line="10" column="11" lean-forward="true" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/selection-sort/selection_sort.py">
+    <entry file="file://$PROJECT_DIR$/det/Untitled.ipynb">
+      <provider selected="true" editor-type-id="jupyter-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/merge-sort/merge_sort.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="19" />
+        <state relative-caret-position="-169">
+          <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/quicksort/quicksort.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="3" column="29" selection-start-line="3" selection-start-column="29" selection-end-line="3" selection-end-column="29" />
+        <state relative-caret-position="288">
+          <caret line="12" column="56" selection-start-line="12" selection-start-column="56" selection-end-line="12" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/selection-sort/selection_sort.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/insertion-sort/insertion_sort.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bfs/bfs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="4" column="10" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dfs/dfs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="4" column="10" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/euclidean-algorithm/gcd.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="9" selection-start-line="9" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/binary-tree/binaryTree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="7" column="26" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
         </state>
       </provider>
     </entry>

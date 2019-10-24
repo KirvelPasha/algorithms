@@ -8,7 +8,6 @@ def selection(data):
         data[i], data[min] = data[min], data[i]
     return data
 
-
 def main():
     data = [3, 8, 5, 4, 1, 9, -2]
     print(selection(data))

@@ -15,12 +15,6 @@ def binarySearch(data, value):
     else:
         return -1
 
-
-
-
-
-
-
 def main():
     data = [1, 2, 3, 4, 5]
     value = int(input())

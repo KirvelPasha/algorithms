@@ -4,12 +4,10 @@ def merge(data):
     n = len(data)
     if n < 2:
         return data
-
     l = merge(data[:n // 2])
     r = merge(data[n // 2:])
     i = j = 0
     res = []
-
     while i < len(l) or j < len(r):
         if not i < len(l):
             res.append(r[j])
@@ -24,8 +22,6 @@ def merge(data):
             res.append(r[j])
             j += 1
     return res
-
-
 
 def main():
     data = [random.randrange(-10, 10) for i in range(10)]
