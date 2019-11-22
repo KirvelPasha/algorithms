@@ -21,7 +21,7 @@ class Node:
     def print_tree(self):
         if self.lChild:
             self.lChild.print_tree()
-        print(self.data),
+        print(self.data)
         if self.rChild:
             self.rChild.print_tree()
 
@@ -47,10 +47,10 @@ def main():
     root.insert(14)
     root.insert(3)
     root.insert(8)
-    # root.print_tree()
-    # root.pre_order()
+    root.print_tree()
+    print("-----------")
     root.post_order()
-
+    # root.pre_order()
 
 
 if __name__ == "__main__":

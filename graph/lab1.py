@@ -29,23 +29,6 @@ class Graph:
                     adjacencyList.get(i).append(j)
         return adjacencyList
 
-    def incidenceMatrix(self):
-        # столбцы матрицы ребра
-        # строки вершины
-        incidenceMatrix = []
-        for i in range(self.vertices):
-            incidenceMatrix.append([])
-            for j in range(self.edges):
-                incidenceMatrix[i].append(0)
-        for i in range(self.vertices):
-            for j in range(self.vertices):
-                if self.matrix[i][j] == 1:
-                    incidenceMatrix[i].append(1)
-        return
-
-    def listOfArcs(self):
-        return
-
     def addNote(self):
         for i in range(self.vertices):
             self.matrix[i].append(0)
@@ -79,21 +62,22 @@ class Graph:
         self.matrix[v][u] = 0
         return self.matrix
 
-    def printGraph(self):
-        return self.matrix
+    def printGraph(self, matrix):
+        for i in range(self.vertices):
+            print(matrix[i])
 
 
 def main():
     vertices = int(input("Введите количество вершин"))
     edges = int(input("Введите количество ребер"))
     graph = Graph(vertices, edges)
-    print(graph.adjacencyMatrix())
-    print(graph.adjacencyList())
+    graph.printGraph(graph.adjacencyMatrix())
+
+    graph.printGraph(graph.adjacencyList())
     print(graph.addNote())
     print(graph.deleteNote())
     print(graph.addArc())
     print(graph.deleteArc())
-
 
 if __name__ == "__main__":
     main()
