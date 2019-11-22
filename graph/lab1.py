@@ -73,11 +73,11 @@ def main():
     graph = Graph(vertices, edges)
     graph.printGraph(graph.adjacencyMatrix())
 
-    graph.printGraph(graph.adjacencyList())
-    print(graph.addNote())
-    print(graph.deleteNote())
-    print(graph.addArc())
-    print(graph.deleteArc())
+    print(graph.adjacencyList())
+    graph.printGraph(graph.addNote())
+    graph.printGraph(graph.deleteNote())
+    graph.printGraph(graph.addArc())
+    graph.printGraph(graph.deleteArc())
 
 if __name__ == "__main__":
     main()
