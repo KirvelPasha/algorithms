@@ -3,6 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="c3e3c248-57fe-4498-901e-403cde28aacd" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BSU(graph)/lab1.py" beforeDir="false" afterPath="$PROJECT_DIR$/BSU(graph)/lab1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BSU(graph)/lab2.py" beforeDir="false" afterPath="$PROJECT_DIR$/BSU(graph)/lab2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/binary-search/binary_search.py" beforeDir="false" afterPath="$PROJECT_DIR$/binary-search/binary_search.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/binary-tree/binaryTree.py" beforeDir="false" afterPath="$PROJECT_DIR$/binary-tree/binaryTree.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/different/different.py" beforeDir="false" afterPath="$PROJECT_DIR$/different/different.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,21 +16,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/binary-tree/binaryTree.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="23" column="24" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/graph/lab1.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="412">
-              <caret line="82" column="10" selection-start-line="82" selection-start-column="10" selection-end-line="82" selection-end-column="10" />
+            <state relative-caret-position="1032">
+              <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="43" />
             </state>
           </provider>
         </entry>
@@ -63,8 +59,8 @@
         <option value="$PROJECT_DIR$/different/different.py" />
         <option value="$PROJECT_DIR$/graph/lab1.ipynb" />
         <option value="$PROJECT_DIR$/graph/lab2.py" />
-        <option value="$PROJECT_DIR$/binary-tree/binaryTree.py" />
         <option value="$PROJECT_DIR$/graph/lab1.py" />
+        <option value="$PROJECT_DIR$/binary-tree/binaryTree.py" />
       </list>
     </option>
   </component>
@@ -79,7 +75,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -91,15 +86,16 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Python" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -264,6 +260,7 @@
       <workItem from="1574226985068" duration="2839000" />
       <workItem from="1574335396989" duration="949000" />
       <workItem from="1574412694082" duration="3831000" />
+      <workItem from="1580554704833" duration="50000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1571932185333</created>
@@ -276,12 +273,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="67844000" />
+    <option name="totallyTimeSpent" value="67894000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="64" y="-4" width="1857" height="1085" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21779989" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22056384" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -402,13 +400,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../.PyCharm2019.1/system/python_stubs/-1247971762/builtins.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="3698" column="22" lean-forward="true" selection-start-line="3698" selection-start-column="22" selection-end-line="3698" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/../.PyCharm2019.1/system/python_stubs/-1247971762/builtins.py" />
     <entry file="file://$PROJECT_DIR$/det/det.py" />
     <entry file="file://$PROJECT_DIR$/binary-search/binary_search.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -418,49 +410,13 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/det/.ipynb_checkpoints/Untitled-checkpoint.ipynb" />
-    <entry file="file://$PROJECT_DIR$/bubble-sort/bubble_sort.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="10" column="11" lean-forward="true" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/bubble-sort/bubble_sort.py" />
     <entry file="file://$PROJECT_DIR$/det/Untitled.ipynb" />
-    <entry file="file://$PROJECT_DIR$/merge-sort/merge_sort.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-169">
-          <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/quicksort/quicksort.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="12" column="56" selection-start-line="12" selection-start-column="56" selection-end-line="12" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/selection-sort/selection_sort.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bfs/bfs.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="4" column="10" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dfs/dfs.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="4" column="10" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/merge-sort/merge_sort.py" />
+    <entry file="file://$PROJECT_DIR$/quicksort/quicksort.py" />
+    <entry file="file://$PROJECT_DIR$/selection-sort/selection_sort.py" />
+    <entry file="file://$PROJECT_DIR$/bfs/bfs.py" />
+    <entry file="file://$PROJECT_DIR$/dfs/dfs.py" />
     <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="404">
@@ -484,31 +440,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/graph-algorithms/dijkstra.py" />
     <entry file="file://$PROJECT_DIR$/graph/lab1.ipynb" />
-    <entry file="file://$PROJECT_DIR$/insertion-sort/insertion_sort.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="10" selection-start-line="10" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/graph/lab2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/insertion-sort/insertion_sort.py" />
+    <entry file="file://$PROJECT_DIR$/graph/lab2.py" />
+    <entry file="file://$PROJECT_DIR$/graph/lab1.py" />
     <entry file="file://$PROJECT_DIR$/binary-tree/binaryTree.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="23" column="24" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/graph/lab1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="412">
-          <caret line="82" column="10" selection-start-line="82" selection-start-column="10" selection-end-line="82" selection-end-column="10" />
+        <state relative-caret-position="1032">
+          <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="43" />
         </state>
       </provider>
     </entry>

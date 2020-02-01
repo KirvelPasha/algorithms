@@ -79,5 +79,6 @@ def main():
     graph.printGraph(graph.addArc())
     graph.printGraph(graph.deleteArc())
 
+
 if __name__ == "__main__":
     main()

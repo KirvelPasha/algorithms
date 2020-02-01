@@ -15,12 +15,12 @@ def binarySearch(data, value):
     else:
         return -1
 
+
 def main():
     data = [1, 2, 3, 4, 5]
     value = int(input())
     print(binarySearch(data, value))
 
+
 if __name__ == "__main__":
-        main()
-
-
+    main()

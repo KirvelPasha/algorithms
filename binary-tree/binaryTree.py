@@ -41,6 +41,7 @@ class Node:
             self.rChild.pre_order()
         print(self.data)
 
+
 def main():
     root = Node(12)
     root.insert(6)
@@ -50,7 +51,6 @@ def main():
     root.print_tree()
     print("-----------")
     root.post_order()
-    # root.pre_order()
 
 
 if __name__ == "__main__":
